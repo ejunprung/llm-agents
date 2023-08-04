@@ -1,2 +1,3 @@
-# llm-agents
-Exploring the Intersection of Large Language Models and Agent-Based Modeling via Prompt Engineering
+# Exploring the Intersection of Large Language Models and Agent-Based Modeling via Prompt Engineering
+
+The final frontier for simulation is the accurate representation of complex, real-world social systems. While agent-based modeling (ABM) seeks to study the behavior and interactions of agents within a larger system, it is unable to faithfully capture the full complexity of human-driven behavior. Large language models (LLMs), like ChatGPT, have emerged as a solution to this bottleneck by enabling researchers to explore human-driven interactions in previously unimaginable ways. Our research investigates simulations of human interactions using LLMs. Through prompt engineering as inspired by [Park et. al. 2023](https://arxiv.org/pdf/2304.03442.pdf), we present two simulations of believable proxies of human behavior: a two-agent negotiation and a six-agent murder mystery game.
